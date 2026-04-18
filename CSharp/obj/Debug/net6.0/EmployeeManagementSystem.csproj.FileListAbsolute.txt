@@ -1,0 +1,15 @@
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.csproj.AssemblyReference.cache
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.AssemblyInfoInputs.cache
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.AssemblyInfo.cs
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/bin/Debug/net6.0/EmployeeManagementSystem
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/bin/Debug/net6.0/EmployeeManagementSystem.deps.json
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/bin/Debug/net6.0/EmployeeManagementSystem.runtimeconfig.json
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/bin/Debug/net6.0/EmployeeManagementSystem.dll
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/bin/Debug/net6.0/EmployeeManagementSystem.pdb
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.dll
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/refint/EmployeeManagementSystem.dll
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.pdb
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/EmployeeManagementSystem.genruntimeconfig.cache
+/Volumes/Data/SAIT/Advance Language/cmpp-assignment3/EmployeeManagementSystem/CSharp/obj/Debug/net6.0/ref/EmployeeManagementSystem.dll
